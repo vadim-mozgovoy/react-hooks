@@ -1,0 +1,36 @@
+export const contacts = [{
+    firstName: "Барней",
+    lastName: "Стинсовський",
+    phone: "+380956319521",
+    gender: "male",
+    photo: "barney.jpg"
+}, {
+    firstName: "Робін",
+    lastName: "Щербатська",
+    phone: "+380931460123",
+    gender: "female",
+    photo: "robin.jpeg"
+}, {
+    firstName: "Анонімний",
+    lastName: "Анонімус",
+    phone: "+380666666666",
+    photo: "анонимус.jpg"
+}, {
+    firstName: "Лілія",
+    lastName: "Олдровна",
+    phone: "+380504691254",
+    gender: "female",
+    photo: "lilya.jpeg"
+}, {
+    firstName: "Маршен",
+    lastName: "Еріксонян",
+    phone: "+380739432123",
+    gender: "male",
+    photo: "Маршен.jpg"
+}, {
+    firstName: "Теодор",
+    lastName: "Мотсбес",
+    phone: "+380966319543",
+    gender: "male",
+    photo: "Теодор.jpg"
+}];
