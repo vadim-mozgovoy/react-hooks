@@ -11,14 +11,14 @@ export function Contacts() {
     const [searchGender, setSearchGender] = useState({male: true, female: true, unknown: true});
 
 
-    // useEffect(() => {
-    //     setContactList(filteredContacts);
-    // }, [searchText, searchGender])
+    useEffect(() => {
+        setContactList(filteredContacts);
+    }, [searchText, searchGender])
 
-    // function filteredContacts () {
-    //     const filteredByGender = contacts.filter(contact => searchGender[contact.gender] || (!(contact.gender in searchGender) && searchGender.unknown));
-    //     return filteredByGender.filter(contact => `${contact.firstName} ${contact.lastName} ${contact.phone}`.toLowerCase().includes(searchText));
-    // }
+    function filteredContacts () {
+        const filteredByGender = contacts.filter(contact => searchGender[contact.gender] || (!(contact.gender in searchGender) && searchGender.unknown));
+        return filteredByGender.filter(contact => `${contact.firstName} ${contact.lastName} ${contact.phone}`.toLowerCase().includes(searchText));
+    }
     const handleSearchByGender = (event) => {
         const target = event.target;
         setSearchGender({
