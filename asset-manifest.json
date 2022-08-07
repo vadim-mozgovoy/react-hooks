@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vadim-mozgovoy/Cursor-react-contacts/static/css/main.2f4b9159.css",
+    "main.js": "/vadim-mozgovoy/Cursor-react-contacts/static/js/main.afcc7164.js",
+    "static/js/787.f2e22480.chunk.js": "/vadim-mozgovoy/Cursor-react-contacts/static/js/787.f2e22480.chunk.js",
+    "static/media/Теодор.jpg": "/vadim-mozgovoy/Cursor-react-contacts/static/media/Теодор.3094303496b6c7187819.jpg",
+    "static/media/barney.jpg": "/vadim-mozgovoy/Cursor-react-contacts/static/media/barney.60c1797b5e7698945368.jpg",
+    "static/media/lilya.jpeg": "/vadim-mozgovoy/Cursor-react-contacts/static/media/lilya.d3d376fa5157386add97.jpeg",
+    "static/media/анонимус.jpg": "/vadim-mozgovoy/Cursor-react-contacts/static/media/анонимус.50cad42f807b3ceda508.jpg",
+    "static/media/Маршен.jpg": "/vadim-mozgovoy/Cursor-react-contacts/static/media/Маршен.974973de24551b8fe94e.jpg",
+    "index.html": "/vadim-mozgovoy/Cursor-react-contacts/index.html",
+    "main.2f4b9159.css.map": "/vadim-mozgovoy/Cursor-react-contacts/static/css/main.2f4b9159.css.map",
+    "main.afcc7164.js.map": "/vadim-mozgovoy/Cursor-react-contacts/static/js/main.afcc7164.js.map",
+    "787.f2e22480.chunk.js.map": "/vadim-mozgovoy/Cursor-react-contacts/static/js/787.f2e22480.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f4b9159.css",
+    "static/js/main.afcc7164.js"
+  ]
+}
