@@ -1,5 +1,5 @@
-import React, {useState, useEffect} from 'react';
 import Contact from "../Contact/contact";
+import React, {useState, useEffect} from 'react';
 import {contacts} from "../../constants/constants";
 import Male from '../../icon/female.png'
 import Female from '../../icon/male.png'

@@ -2,8 +2,7 @@ import React from "react";
 import Male from '../../icon/male.png'
 import Female from '../../icon/female.png'
 import Unknown from '../../icon/undefined.png'
-
-import './/contactstyle.css';
+import './contactstyle.css';
 
 function Contact(contact) {
     return (<div className="col-3 m-3 ">
