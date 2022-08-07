@@ -9,7 +9,7 @@ export const contacts = [{
     lastName: "Щербатська",
     phone: "+380931460123",
     gender: "female",
-    photo: "robin.jpeg"
+    photo: "robin1.jpeg"
 }, {
     firstName: "Анонімний",
     lastName: "Анонімус",
