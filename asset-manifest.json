@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vadim-mozgovoy/react-hooks/static/css/main.2f4b9159.css",
+    "main.css": "/vadim-mozgovoy/react-hooks/static/css/main.5cc38647.css",
     "main.js": "/vadim-mozgovoy/react-hooks/static/js/main.069ed27d.js",
     "static/js/787.f2e22480.chunk.js": "/vadim-mozgovoy/react-hooks/static/js/787.f2e22480.chunk.js",
     "static/media/Теодор.jpg": "/vadim-mozgovoy/react-hooks/static/media/Теодор.3094303496b6c7187819.jpg",
@@ -10,12 +10,12 @@
     "static/media/robin1.jpeg": "/vadim-mozgovoy/react-hooks/static/media/robin1.9a4127cb1cb2699a75ea.jpeg",
     "static/media/Маршен.jpg": "/vadim-mozgovoy/react-hooks/static/media/Маршен.974973de24551b8fe94e.jpg",
     "index.html": "/vadim-mozgovoy/react-hooks/index.html",
-    "main.2f4b9159.css.map": "/vadim-mozgovoy/react-hooks/static/css/main.2f4b9159.css.map",
+    "main.5cc38647.css.map": "/vadim-mozgovoy/react-hooks/static/css/main.5cc38647.css.map",
     "main.069ed27d.js.map": "/vadim-mozgovoy/react-hooks/static/js/main.069ed27d.js.map",
     "787.f2e22480.chunk.js.map": "/vadim-mozgovoy/react-hooks/static/js/787.f2e22480.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f4b9159.css",
+    "static/css/main.5cc38647.css",
     "static/js/main.069ed27d.js"
   ]
 }
