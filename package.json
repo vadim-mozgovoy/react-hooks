@@ -1,7 +1,7 @@
 {
   "name": "react_hooks",
   "version": "0.1.0",
-  "homepage": "https://github.com/vadim-mozgovoy/Cursor-react-contacts",
+  "homepage": "https://github.com/vadim-mozgovoy/react-hooks",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
