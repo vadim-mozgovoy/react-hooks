@@ -5,7 +5,7 @@ import Male from '../../icon/female.png'
 import Female from '../../icon/male.png'
 import Unknown from '../../icon/undefined.png'
 
-export function Contacts() {
+function Contacts() {
     const [contactList, setContactList] = useState(contacts);
     const [searchText, setSearchText] = useState('');
     const [searchGender, setSearchGender] = useState({male: true, female: true, unknown: true});
